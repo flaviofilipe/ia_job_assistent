@@ -1,0 +1,18 @@
+{
+    "name": "robo",
+    "actions": [
+        {
+            "name": "register_hour",
+            "commands": ["bom dia", "boa noite"]
+
+        },
+        {
+            "name": "list_events",
+            "commands": ["agenda", "eventos"]
+        },
+        {
+            "name": "exit",
+            "commands": ["tchau", "sair"]
+        }
+    ]
+}
